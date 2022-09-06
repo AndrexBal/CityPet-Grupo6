@@ -531,8 +531,8 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #ff7f5d;
-  border: 2px solid #ff7f5d;
+  background: #e0a62f;
+  border: 2px solid #e0a62f;
 }
 
 @media (min-width: 1024px) {
@@ -584,7 +584,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #ff7f5d;
+  background: #e0a62f;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -676,7 +676,11 @@ section {
 /*--------------------------------------------------------------
 # Our Values
 --------------------------------------------------------------*/
+.card-title{
+  font-family: Open Sans;
+}
 .our-values .card {
+
   border: 0;
   padding: 160px 20px 20px 20px;
   position: relative;
@@ -723,7 +727,7 @@ section {
 }
 
 .our-values .card:hover .card-body {
-  background: #ff7f5d;
+  background: #2973b0;
 }
 
 .our-values .card:hover .read-more a,
