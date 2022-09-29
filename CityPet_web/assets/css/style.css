@@ -11,7 +11,7 @@
 body {
   font-family: "Montserrat Light";
   color: #444444;
-  font
+ 
 }
 
 a {
@@ -138,7 +138,7 @@ h6 {
 
 #header.fixed-top,
 #header.header-inner-pages {
-  background: rgba(21, 5, 23, 0.8);
+  background: rgba(41, 115, 176, 0.80);
 }
 
 #header.fixed-top {
@@ -1376,6 +1376,8 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+
+
 .contact .info {
   width: 100%;
   background: #fff;
@@ -1401,6 +1403,7 @@ section {
   font-weight: 600;
   margin-bottom: 5px;
   color: #150517;
+
 }
 
 .contact .info p {
@@ -1526,6 +1529,11 @@ section {
   }
 }
 
+
+
+
+
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -1564,7 +1572,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+
+  background: url("../img/Perri_bici.jpg") center center no-repeat;
   color: #fff;
   font-size: 14px;
   position: relative;
